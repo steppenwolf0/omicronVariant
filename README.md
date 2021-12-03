@@ -1,0 +1,2 @@
+# omicronVariant
+Omicron Variant Data
